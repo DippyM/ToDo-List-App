@@ -47,7 +47,7 @@ MainWindow.xaml.cs: Backend logika pro správu úkolů.
 EditTaskWindow.xaml: Dialogové okno pro úpravu úkolů.
 EditTaskWindow.xaml.cs: Backend logika pro úpravu úkolů.
 Příspěvky
-Rádi přivítáme jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
+Rád přivítám jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
 
 markdown
 Zkopírovat kód
