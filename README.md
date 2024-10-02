@@ -47,7 +47,7 @@ Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, 
 - EditTaskWindow.xaml: Dialogové okno pro úpravu úkolů.
 - EditTaskWindow.xaml.cs: Backend logika pro úpravu úkolů.
 #### Příspěvky
-- Rád přivítám jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
+Rád přivítám jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
 
 
 ### Jak to použít:
