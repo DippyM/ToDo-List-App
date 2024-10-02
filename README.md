@@ -12,7 +12,8 @@ Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, 
   - Červená pro úkoly, které mají termín splnění do jednoho dne nebo jsou již prošlé.
   - Oranžová pro úkoly s termínem splnění do tří dnů.
   - Zelená pro úkoly s delší dobou splnění.
-  
+
+![Ukázka Appky 1](./Images/Uka1.png)  ![Ukázka Appky 2](./Images/Uka2.png)  
 ## Lokalizace
 
 - **Plná podpora české lokalizace**: Všechny datumy jsou zobrazovány v českém formátu (dd/MM/yyyy) a hotové úkoly jsou tříděny podle českých názvů měsíců.
@@ -48,16 +49,5 @@ Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, 
 - EditTaskWindow.xaml.cs: Backend logika pro úpravu úkolů.
 #### Příspěvky
 Rád přivítám jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
-
-
-### Jak to použít:
-1. Vytvoř ve složce svého projektu nový soubor s názvem **README.md**.
-2. Zkopíruj a vlož tento kód do **README.md**.
-3. Ulož soubor a pomocí Git ho nahraj na svůj GitHub repozitář.
-
-Tento formát Markdownu (`.md`) zajistí, že se na GitHubu vše správně naformátuje s nadpisy, seznamy a kódy. Dej mi vědět, pokud budeš potřebovat další pomoc!
-
-
-
 
 
