@@ -41,16 +41,14 @@ Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, 
 
 3. Sestavte projekt a spusťte aplikaci.
 
-# Struktura projektu
-MainWindow.xaml: Hlavní okno, kde uživatel spravuje úkoly.
-MainWindow.xaml.cs: Backend logika pro správu úkolů.
-EditTaskWindow.xaml: Dialogové okno pro úpravu úkolů.
-EditTaskWindow.xaml.cs: Backend logika pro úpravu úkolů.
-# Příspěvky
-Rád přivítám jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
+#### Struktura projektu
+- MainWindow.xaml: Hlavní okno, kde uživatel spravuje úkoly.
+- MainWindow.xaml.cs: Backend logika pro správu úkolů.
+- EditTaskWindow.xaml: Dialogové okno pro úpravu úkolů.
+- EditTaskWindow.xaml.cs: Backend logika pro úpravu úkolů.
+#### Příspěvky
+- Rád přivítám jakékoliv návrhy na vylepšení nebo opravy. Neváhejte zaslat pull request.
 
-markdown
-Zkopírovat kód
 
 ### Jak to použít:
 1. Vytvoř ve složce svého projektu nový soubor s názvem **README.md**.
