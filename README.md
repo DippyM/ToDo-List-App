@@ -1,6 +1,6 @@
 # ToDo List Aplikace
 
-Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, vytvořená v C# a XAML. Tato aplikace umožňuje uživatelům přidávat, upravovat a odstraňovat úkoly, označovat je jako hotové, a to vše s podporou české lokalizace.
+Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, vytvořená v C# a XAML. Tato aplikace umožňuje uživately přidávat, upravovat a odstraňovat úkoly, označovat je jako hotové, a to vše s podporou české lokalizace.
 
 ## Funkce
 
@@ -35,7 +35,7 @@ Jednoduchá WPF (Windows Presentation Foundation) aplikace pro správu úkolů, 
 
 1. Naklonujte tento repozitář:
    ```bash
-   git clone https://github.com/tvoje-username/todolist-app.git
+   git clone https://github.com/DippyM/ToDo-List-App.git
 
 2. Otevřete projekt ve Visual Studiu.
 
