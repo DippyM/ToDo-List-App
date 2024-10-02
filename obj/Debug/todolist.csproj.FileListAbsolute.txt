@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\bin\Debug\todolist.exe.config
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\bin\Debug\todolist.exe
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\bin\Debug\todolist.pdb
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist_MarkupCompile.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.g.resources
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.Properties.Resources.resources
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.exe
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\todolist.pdb
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\EditTaskWindow.baml
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\ToDO\todolist\obj\Debug\EditTaskWindow.g.cs
